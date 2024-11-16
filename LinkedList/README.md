@@ -21,12 +21,13 @@ A linked list is a data structure containing two crucial pieces of information, 
 
 Types of Linked Lists:
 1. Singly Linked Lists: In a singly linked list, each node points to the next node in the sequence. Traversal is straightforward but limited to moving in one direction, from the head to the tail.
+   
 ![image](https://github.com/user-attachments/assets/a2c2d43b-d487-4b9a-bac3-0b5c9c3d2a25)
 
-2. Doubly Linked Lists: In this each node points to both the next node and the previous node, thus allowing it for bidirectional connectivity.
+3. Doubly Linked Lists: In this each node points to both the next node and the previous node, thus allowing it for bidirectional connectivity.
 ![image](https://github.com/user-attachments/assets/4fcb69bb-25ac-4ce9-a3f8-d07224f62005)
 
-3. Circular Linked Lists: In a circular linked list, the last node points back to the head node, forming a closed loop.
+4. Circular Linked Lists: In a circular linked list, the last node points back to the head node, forming a closed loop.
 ![image](https://github.com/user-attachments/assets/21fbf581-e174-43ed-ad03-82bf6b5071b7)
 
 
