@@ -24,10 +24,10 @@ Types of Linked Lists:
    
 ![image](https://github.com/user-attachments/assets/a2c2d43b-d487-4b9a-bac3-0b5c9c3d2a25)
 
-3. Doubly Linked Lists: In this each node points to both the next node and the previous node, thus allowing it for bidirectional connectivity.
+2. Doubly Linked Lists: In this each node points to both the next node and the previous node, thus allowing it for bidirectional connectivity.
 ![image](https://github.com/user-attachments/assets/4fcb69bb-25ac-4ce9-a3f8-d07224f62005)
 
-4. Circular Linked Lists: In a circular linked list, the last node points back to the head node, forming a closed loop.
+3. Circular Linked Lists: In a circular linked list, the last node points back to the head node, forming a closed loop.
 ![image](https://github.com/user-attachments/assets/21fbf581-e174-43ed-ad03-82bf6b5071b7)
 
 
