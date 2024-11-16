@@ -27,3 +27,19 @@ Output:
 
 0x11b7f90
 2
+
+Let's break this example to understand how it works:
+
+The struct has two data types: data which contains the value of the node and a pointer next, which points to the next node in the list.
+There is a constructor which assigns the values to a new node.
+A new keyword is used to dynamically allocate memory to a node with data as arr[0].
+The combination of the given parameters and functions initializes a linked list.    
+
+Memory Space:
+Let’s talk about assuming the data stored is integer. Another main difference between an array and a linked list is the memory used. In the case of an array, we are storing integers that consume 4 Bytes for every int, whereas in a linked list, we are storing data and a pointer at every node, so the memory used up will depend on the configuration of the system.
+
+32 Bit System	    64 Bit System
+Int - 4 Bytes	    Int - 4 Bytes
+Pointer - 4 Bytes	Pointer - 8 Bytes
+Overall - 8 Bytes	Overall - 12 Bytes
+    
